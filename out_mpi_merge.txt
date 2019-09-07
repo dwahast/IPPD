@@ -1,0 +1,240 @@
+!
+world_rank:0
+world size:1
+Tamanho do vetor: 10
+Tamanho do Chunk: 10
+Processo:0
+Tempo no processo:0.000087
+Tempo total acumulado:0.000087
+
+real	0m0,132s
+user	0m0,083s
+sys	0m0,033s
+!
+world_rank:0
+world size:1
+Tamanho do vetor: 100
+Tamanho do Chunk: 100
+Processo:0
+Tempo no processo:0.000068
+Tempo total acumulado:0.000068
+
+real	0m0,149s
+user	0m0,083s
+sys	0m0,048s
+!
+world_rank:0
+world size:1
+Tamanho do vetor: 1000
+Tamanho do Chunk: 1000
+Processo:0
+Tempo no processo:0.000420
+Tempo total acumulado:0.000420
+
+real	0m0,135s
+user	0m0,085s
+sys	0m0,033s
+!
+world_rank:0
+world size:1
+Tamanho do vetor: 10000
+Tamanho do Chunk: 10000
+Processo:0
+Tempo no processo:0.004797
+Tempo total acumulado:0.004797
+
+real	0m0,152s
+user	0m0,114s
+sys	0m0,023s
+!
+world_rank:0
+world size:2
+Tamanho do vetor: 10
+Tamanho do Chunk: 5
+Processo:0
+Tempo no processo:0.000299
+Processo:1
+Tempo no processo:0.000046
+Tempo total acumulado:0.000345
+
+real	0m0,160s
+user	0m0,170s
+sys	0m0,070s
+!
+world_rank:0
+world size:2
+Tamanho do vetor: 100
+Tamanho do Chunk: 50
+Processo:0
+Tempo no processo:0.000426
+Processo:1
+Tempo no processo:0.000080
+Tempo total acumulado:0.000506
+
+real	0m0,166s
+user	0m0,189s
+sys	0m0,058s
+!
+world_rank:0
+world size:2
+Tamanho do vetor: 1000
+Tamanho do Chunk: 500
+Processo:0
+Tempo no processo:0.000351
+Processo:1
+Tempo no processo:0.000359
+Tempo total acumulado:0.000710
+
+real	0m0,172s
+user	0m0,218s
+sys	0m0,069s
+!
+world_rank:0
+world size:2
+Tamanho do vetor: 10000
+Tamanho do Chunk: 5000
+Processo:0
+Tempo no processo:0.003125
+Processo:1
+Tempo no processo:0.003410
+Tempo total acumulado:0.006535
+
+real	0m0,195s
+user	0m0,239s
+sys	0m0,080s
+!
+world_rank:0
+world size:3
+Tamanho do vetor: 10
+Tamanho do Chunk: 3
+Processo:0
+Tempo no processo:0.000533
+Processo:1
+Tempo no processo:0.000057
+Processo:2
+Tempo no processo:0.000064
+Tempo total acumulado:0.000654
+
+real	0m0,210s
+user	0m0,347s
+sys	0m0,115s
+!
+world_rank:0
+world size:3
+Tamanho do vetor: 100
+Tamanho do Chunk: 33
+Processo:0
+Tempo no processo:0.000659
+Processo:1
+Tempo no processo:0.000181
+Processo:2
+Tempo no processo:0.000087
+Tempo total acumulado:0.000927
+
+real	0m0,185s
+user	0m0,359s
+sys	0m0,094s
+!
+world_rank:0
+world size:3
+Tamanho do vetor: 1000
+Tamanho do Chunk: 333
+Processo:0
+Tempo no processo:0.000371
+Processo:1
+Tempo no processo:0.000363
+Processo:2
+Tempo no processo:0.000762
+Tempo total acumulado:0.001495
+
+real	0m0,193s
+user	0m0,366s
+sys	0m0,094s
+!
+world_rank:0
+world size:3
+Tamanho do vetor: 10000
+Tamanho do Chunk: 3333
+Processo:0
+Tempo no processo:0.003644
+Processo:1
+Tempo no processo:0.003660
+Processo:2
+Tempo no processo:0.004042
+Tempo total acumulado:0.011347
+
+real	0m0,202s
+user	0m0,383s
+sys	0m0,089s
+!
+world_rank:0
+world size:4
+Tamanho do vetor: 10
+Tamanho do Chunk: 2
+Processo:0
+Tempo no processo:0.011344
+Processo:1
+Tempo no processo:0.011350
+Processo:2
+Tempo no processo:0.011329
+Processo:3
+Tempo no processo:0.011333
+Tempo total acumulado:0.045357
+
+real	0m0,227s
+user	0m0,627s
+sys	0m0,158s
+!
+world_rank:0
+world size:4
+Tamanho do vetor: 100
+Tamanho do Chunk: 25
+Processo:0
+Tempo no processo:0.001278
+Processo:1
+Tempo no processo:0.001269
+Processo:2
+Tempo no processo:0.001279
+Processo:3
+Tempo no processo:0.001279
+Tempo total acumulado:0.005106
+
+real	0m0,276s
+user	0m0,636s
+sys	0m0,246s
+!
+world_rank:0
+world size:4
+Tamanho do vetor: 1000
+Tamanho do Chunk: 250
+Processo:0
+Tempo no processo:0.007525
+Processo:1
+Tempo no processo:0.007596
+Processo:2
+Tempo no processo:0.007590
+Processo:3
+Tempo no processo:0.007596
+Tempo total acumulado:0.030307
+
+real	0m0,225s
+user	0m0,652s
+sys	0m0,120s
+!
+world_rank:0
+world size:4
+Tamanho do vetor: 10000
+Tamanho do Chunk: 2500
+Processo:0
+Tempo no processo:0.015629
+Processo:1
+Tempo no processo:0.015838
+Processo:2
+Tempo no processo:0.015958
+Processo:3
+Tempo no processo:0.015839
+Tempo total acumulado:0.063264
+
+real	0m0,233s
+user	0m0,666s
+sys	0m0,123s
