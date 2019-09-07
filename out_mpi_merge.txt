@@ -238,3 +238,243 @@ Tempo total acumulado:0.063264
 real	0m0,233s
 user	0m0,666s
 sys	0m0,123s
+!
+world_rank:0
+world size:1
+Tamanho do vetor: 100000
+Tamanho do Chunk: 100000
+Processo:0
+Tempo no processo:0.080363
+Tempo total acumulado:0.080363
+
+real	0m5,392s
+user	0m0,309s
+sys	0m0,114s
+!
+world_rank:0
+world size:2
+Tamanho do vetor: 100000
+Tamanho do Chunk: 50000
+Processo:0
+Tempo no processo:0.030231
+Processo:1
+Tempo no processo:0.029977
+Tempo total acumulado:0.060207
+
+real	0m0,189s
+user	0m0,255s
+sys	0m0,044s
+!
+world_rank:0
+world size:3
+Tamanho do vetor: 100000
+Tamanho do Chunk: 33333
+Processo:0
+Tempo no processo:0.037247
+Processo:1
+Tempo no processo:0.037635
+Processo:2
+Tempo no processo:0.037228
+Tempo total acumulado:0.112110
+
+real	0m0,249s
+user	0m0,469s
+sys	0m0,131s
+!
+world_rank:0
+world size:4
+Tamanho do vetor: 100000
+Tamanho do Chunk: 25000
+Processo:0
+Tempo no processo:0.035109
+Processo:2
+Tempo no processo:0.035098
+Processo:3
+Tempo no processo:0.035097
+Processo:1
+Tempo no processo:0.035098
+Tempo total acumulado:0.140402
+
+real	0m0,325s
+user	0m0,835s
+sys	0m0,229s
+!
+world_rank:0
+world size:1
+Tamanho do vetor: 1000000
+Tamanho do Chunk: 1000000
+Processo:0
+Tempo no processo:0.474702
+Tempo total acumulado:0.474702
+
+real	0m0,614s
+user	0m0,554s
+sys	0m0,040s
+!
+world_rank:0
+world size:2
+Tamanho do vetor: 1000000
+Tamanho do Chunk: 500000
+Processo:0
+Tempo no processo:0.338866
+Tempo total acumulado:0.677753
+Processo:1
+Tempo no processo:0.338887
+
+real	0m1,253s
+user	0m0,876s
+sys	0m0,076s
+!
+world_rank:0
+world size:3
+Tamanho do vetor: 1000000
+Tamanho do Chunk: 333333
+Processo:0
+Tempo no processo:0.420761
+Processo:1
+Tempo no processo:0.420762
+Processo:2
+Tempo no processo:0.421191
+Tempo total acumulado:1.262714
+
+real	0m0,638s
+user	0m1,599s
+sys	0m0,168s
+!
+world_rank:0
+world size:4
+Tamanho do vetor: 1000000
+Tamanho do Chunk: 250000
+Processo:0
+Tempo no processo:0.387058
+Processo:1
+Tempo no processo:0.387084
+Processo:2
+Tempo no processo:0.387058
+Processo:3
+Tempo no processo:0.387072
+Tempo total acumulado:1.548271
+
+real	0m0,622s
+user	0m2,167s
+sys	0m0,155s
+!
+world_rank:0
+world size:1
+Tamanho do vetor: 10000000
+Tamanho do Chunk: 10000000
+Processo:0
+Tempo no processo:5.306147
+Tempo total acumulado:5.306147
+
+real	0m5,507s
+user	0m5,292s
+sys	0m0,124s
+!
+world_rank:0
+world size:2
+Tamanho do vetor: 10000000
+Tamanho do Chunk: 5000000
+Processo:0
+Tempo no processo:3.838690
+Processo:1
+Tempo no processo:3.838908
+Tempo total acumulado:7.677598
+
+real	0m4,101s
+user	0m7,743s
+sys	0m0,202s
+!
+world_rank:0
+world size:3
+Tamanho do vetor: 10000000
+Tamanho do Chunk: 3333333
+Processo:0
+Tempo no processo:3.737858
+Processo:1
+Tempo no processo:3.737275
+Processo:2
+Tempo no processo:3.737473
+Tempo total acumulado:11.212606
+
+real	0m3,964s
+user	0m11,397s
+sys	0m0,352s
+!
+world_rank:0
+world size:4
+Tamanho do vetor: 10000000
+Tamanho do Chunk: 2500000
+Processo:0
+Tempo no processo:4.385495
+Processo:1
+Tempo no processo:4.385487
+Processo:2
+Tempo no processo:4.385501
+Processo:3
+Tempo no processo:4.385481
+Tempo total acumulado:17.541964
+
+real	0m4,635s
+user	0m17,362s
+sys	0m0,502s
+!
+world_rank:0
+world size:1
+Tamanho do vetor: 100000000
+Tamanho do Chunk: 100000000
+Processo:0
+Tempo no processo:58.566345
+Tempo total acumulado:58.566345
+
+real	0m59,290s
+user	0m57,111s
+sys	0m1,620s
+!
+world_rank:0
+world size:2
+Tamanho do vetor: 100000000
+Tamanho do Chunk: 50000000
+Processo:0
+Tempo no processo:42.183366
+Processo:1
+Tempo no processo:42.183378
+Tempo total acumulado:84.366743
+
+real	0m45,264s
+user	1m22,446s
+sys	0m2,489s
+!
+world_rank:0
+world size:3
+Tamanho do vetor: 100000000
+Tamanho do Chunk: 33333333
+Processo:0
+Tempo no processo:51.435519
+Processo:1
+Tempo no processo:51.435530
+Processo:2
+Tempo no processo:51.436016
+Tempo total acumulado:154.307066
+
+real	0m52,323s
+user	2m31,105s
+sys	0m4,102s
+!
+world_rank:0
+world size:4
+Tamanho do vetor: 100000000
+Tamanho do Chunk: 25000000
+Processo:0
+Tempo no processo:47.746773
+Processo:1
+Tempo no processo:47.746790
+Processo:2
+Tempo no processo:47.746778
+Processo:3
+Tempo no processo:47.746782
+Tempo total acumulado:190.987123
+
+real	0m48,119s
+user	3m6,034s
+sys	0m4,479s
