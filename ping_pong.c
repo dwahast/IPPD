@@ -37,29 +37,27 @@ int main(int argc, char** argv) {
 
     if (world_rank == ping_pong_count % 2) {
 
-      send_start = clock();
+      double tbeg = MPI_Wtime();
       // Increment the ping pong count before you send it
       ping_pong_count++;
-      MPI_Send(&ping_pong_count, 1, MPI_INT, partner_rank, 0, MPI_COMM_WORLD);
+      MPI_Send(&ping_pong_count, 1, MPI_SHORT, partner_rank, 0, MPI_COMM_WORLD);
       printf("%d sent and incremented ping_pong_count %d to %d\n",
              world_rank, ping_pong_count, partner_rank);
       /////
-      send_end = clock();
-      total = ((send_end - send_start) / CLOCKS_PER_SEC ) * 1000000;
-      printf("%d Time for send %5.f\n",world_rank ,total);
+      double elapsedTime = MPI_Wtime() - tbeg;
+      printf("%d Time for send %.2fus\n",world_rank ,elapsedTime*1000000);
     } else {
 
-      rec_start = clock();
+      double tbeg = MPI_Wtime();
       /////
-      MPI_Recv(&ping_pong_count, 1, MPI_INT, partner_rank, 0, MPI_COMM_WORLD,
+      MPI_Recv(&ping_pong_count, 1, MPI_SHORT, partner_rank, 0, MPI_COMM_WORLD,
                MPI_STATUS_IGNORE);
       printf("%d received ping_pong_count %d from %d\n",
              world_rank, ping_pong_count, partner_rank);
       /////
-      rec_end = clock();
-      total = ((rec_end - rec_start) / CLOCKS_PER_SEC ) * 1000000;
+      double elapsedTime = MPI_Wtime() - tbeg;
 
-      printf("%d Time for rec %ld\n",world_rank,total);
+      printf("%d Time for rec %.2fus\n",world_rank,elapsedTime*1000000);
     }
   }
   MPI_Finalize();
